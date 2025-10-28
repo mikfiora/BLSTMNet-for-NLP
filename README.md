@@ -34,7 +34,7 @@ LABELS:
 
 ## 
 
-![Slide 4 Image](/mnt/data/ppt_images/slide_4.png)
+![Slide 4 Image](./ppt_images/slide_4.png)
 
 
 ---
