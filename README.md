@@ -94,7 +94,7 @@ of the 8902 words in the vocabulary: 8450 found in GloVe
 
 ## FIRST CANDIDATE MODEL: BLSTM2DCNN
 
-TAKEN FROM (no code provided in the paper):
+TAKEN FROM ![THIS PAPER](https://aclanthology.org/C16-1329.pdf)(no code provided in the paper):
 
 ![Slide 10 Image](./ppt_images/slide_10.png)
 
