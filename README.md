@@ -17,7 +17,7 @@ TASK: Classification of questions into 6 different labels (coarse labels, 50 fin
 ---
 
 
-## Slide 3
+## Classification into 6 categories:
 
 abbreviation ("What is the full form of .com ?")
 entity ("What fowl grabs the spotlight after the Chinese Year of the Monkey ?")
@@ -110,15 +110,15 @@ TAKEN FROM (no code provided in the paper):
 ---
 
 
-## Slide 12
-
-![Slide 12 Image](./ppt_images/slide_12.png)
-
-![Slide 12 Image](./ppt_images/slide_12.png)
-
+## Deep Learning "units"
 BLSTM
-
+![Slide 12 Image](./ppt_images/slide_12.png)
 LSTM Unit
+![Slide 12 Image](./ppt_images/slide_12.png)
+
+
+
+
 
 
 ---
@@ -126,6 +126,7 @@ LSTM Unit
 
 ## BLSTM2DCNN: Why?
 
+from the paper:
 “RNN can capitalize on distributed representations of words by first converting the tokens comprising each text into vectors, which form a matrix. This matrix includes two dimensions: the time-step dimension and the feature vector dimension, and it will be updated in the process of learning feature representation.”
 RNNs ignore feature vector dimension.
 CNNs very successful in image processing: output of rnn is a matrix “image”:
