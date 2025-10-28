@@ -42,7 +42,7 @@ LABELS:
 
 ## 
 
-![Slide 5 Image](/mnt/data/ppt_images/slide_5.png)
+![Slide 5 Image](./ppt_images/slide_5.png)
 
 
 ---
@@ -96,7 +96,7 @@ of the 8902 words in the vocabulary: 8450 found in GloVe
 
 TAKEN FROM (no code provided in the paper):
 
-![Slide 10 Image](/mnt/data/ppt_images/slide_10.png)
+![Slide 10 Image](./ppt_images/slide_10.png)
 
 
 ---
@@ -104,7 +104,7 @@ TAKEN FROM (no code provided in the paper):
 
 ## BLSTM2DCNN (word embedding size 3, hidden units 5)
 
-![Slide 11 Image](/mnt/data/ppt_images/slide_11.png)
+![Slide 11 Image](./ppt_images/slide_11.png)
 
 
 ---
@@ -112,9 +112,9 @@ TAKEN FROM (no code provided in the paper):
 
 ## Slide 12
 
-![Slide 12 Image](/mnt/data/ppt_images/slide_12.png)
+![Slide 12 Image](./ppt_images/slide_12.png)
 
-![Slide 12 Image](/mnt/data/ppt_images/slide_12.png)
+![Slide 12 Image](./ppt_images/slide_12.png)
 
 BLSTM
 
@@ -162,7 +162,7 @@ main advantages:
 
 score: accuracy on test set
 
-![Slide 16 Image](/mnt/data/ppt_images/slide_16.png)
+![Slide 16 Image](./ppt_images/slide_16.png)
 
 As expected, label 0 the worst in every model due to little data
 
